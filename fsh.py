@@ -49,7 +49,7 @@ MichaelBloomList = []
 
 MichaelBloomList.append(MichaelBloom("  *  ", 0.95))
 MichaelBloomList.append(MichaelBloom(" * * ", 1.25))
-MichaelBloomList.append(MichaelBloom("* * *", 2.15))
+MichaelBloomList.append(MichaelBloom("* * *", 1.56))
 
 # End List Init
 
